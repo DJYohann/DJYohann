@@ -1,47 +1,71 @@
-<center> <h1>Hi, I'm Yohann BREUIL 👋</h1> </center>
+<h1 align="center">Hi 👋, I'm Yohann BREUIL</h1>
+<h3 align="center">Web developper at Soeman Group</h3>
 
-- 🔭 I am currently on an internship developing a web application with Laravel and MariaDB
-- 💻 I'm interested in web technologies
-- 📫 How to reach me: breuil.yohann@orange.fr
+- 💻 I'm interested in **web technologies**
+
+- 🔭 I’m currently working on **Soeman software**
+
+- 🌱 I’m currently learning **iOS and Android development**
+
+- 📫 How to reach me **breuil.yohann@orange.fr**
 
 ## Languages 
 
-<div>
-<img with="60px" height="60px" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-<img with="60px" height="60px" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img with="60px" height="60px" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img with="60px" height="60px" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img with="60px" height="60px" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-<img with="60px" height="60px" title="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img with="60px" height="60px" title="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-<img with="60px" height="60px" title="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</div>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60px" height="60px"/> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60px" height="60px"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60px" height="60px"/> 
+</a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60px" height="60px"/> 
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60px" height="60px"/> 
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60px" height="60px"/> 
+</a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60px" height="60px"/> 
+</a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
+	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60px" height="60px"/> 
+</a> 
 
 ## Frameworks
 
-<div>
-<img with="60px" height="60px" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img with="60px" height="60px" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img with="60px" height="60px" title="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img with="60px" height="60px" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />                
-</div> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60px" height="60px"/> 
+</a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60px" height="60px"/> 
+</a>
+<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60px" height="60px"/> 
+</a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60px" height="60px"/> 
+</a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60px" height="60px"/> 
+</a>
           
-## Tools
-
-<div>
-<img with="60px" height="60px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img with="60px" height="60px" title="Composer" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" />
-<img with="60px" height="60px" title="NPM" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />       
-<img with="60px" height="60px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />       
-</div>
-
 ## Database
 
-<div>
-<img with="60px" height="60px" title="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />          
-<img with="60px" height="60px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-</div> 
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="60px" height="60px"/> 
+</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60px" height="60px"/> 
+</a>
+<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
+	<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60px" height="60px"/> 
+</a>
           
-## Most used languages                 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJYohann&layout=compact)
+## Most used languages     
+            
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=djyohann&show_icons=true&locale=en&layout=compact" alt="djyohann" /></p>
