@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yohann BREUIL</h1>
-<h3 align="center">Web developper at Soeman Group</h3>
+<h3 align="center">Web developper at SOeMAN</h3>
 
 - 💻 I'm interested in **web technologies**
 
-- 🔭 I’m currently working on **Soeman software**
+- 🔭 I’m currently working on **SOeMAN software**
 
 - 🌱 I’m currently learning **iOS and Android development**
 
@@ -65,7 +65,7 @@
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
 	<img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60px" height="60px"/> 
 </a>
+
+##
           
-## Most used languages     
-            
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djyohann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
