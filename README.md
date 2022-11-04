@@ -49,12 +49,16 @@
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="60px" height="60px"/>
 </a>
 <br>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60px" height="60px"/>
+</a>          
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60px" height="60px"/>
 </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60px" height="60px"/>
 </a>
+<br>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60px" height="60px"/>
 </a>
@@ -62,20 +66,27 @@
 	<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60px" height="60px"/>
 </a>
 
-## Frameworks
+## Frameworks & Libraries
+
+### Web
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60px" height="60px"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="60px" height="60px"/>
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60px" height="60px"/>
+	<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="60px" height="60px"/>
 </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60px" height="60px"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="60px" height="60px"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60px" height="60px"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel" width="60px" height="60px"/>
 </a>
+
+### Mobile
+
+### Others
+
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="60px" height="60px"/>
 </a>
@@ -92,6 +103,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="60px" height="60px"/>
 </a>
 
-##
+## Operation Systems
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djyohann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
