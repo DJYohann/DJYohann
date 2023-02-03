@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yohann BREUIL</h1>
 <h3 align="center">Web developper at SOeMAN</h3>
 
-- 💻 I'm interested in **web and mobie technologies**
+- 💻 I'm interested in **web and mobile technologies**
 
 - 🔭 I’m currently working on **SOeMAN Group**
 
-- 🌱 I’m currently learning **iOS and Android development**
+- 🌱 I’m currently learning **mobile development**
 
 - 📫 How to reach me **breuil.yohann@orange.fr**
 
