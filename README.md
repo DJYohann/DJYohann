@@ -1,13 +1,31 @@
 <h1 align="center">Hi 👋, I'm Yohann BREUIL</h1>
 <h3 align="center">Web developper at SOeMAN</h3>
 
-- 💻 I'm interested in **web technologies**
+- 💻 I'm interested in **web and mobie technologies**
 
-- 🔭 I’m currently working on **SOeMAN software**
+- 🔭 I’m currently working on **SOeMAN Group**
 
 - 🌱 I’m currently learning **iOS and Android development**
 
 - 📫 How to reach me **breuil.yohann@orange.fr**
+
+## OS
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Windows-005BA4?logo=windows"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-MacOS-005BA4?logo=macos"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Linux-005BA4?logo=linux"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Android-005BA4?logo=android"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-iOS-005BA4?logo=ios"/>
+</a>
 
 ## Éditeurs / IDE
 
@@ -21,9 +39,6 @@
     <img src="https://img.shields.io/badge/-Apache%20NetBeans-A1C535?logo=apachenetbeanside"/>
 </a>
 <br>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Android%20Studio-4285F4?logo=androidstudio"/>
-</a>
 <a href="https://www.jetbrains.com/fr-fr/phpstorm/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-PhpStorm-954FF4?logo=phpstorm"/>
 </a>
@@ -32,6 +47,19 @@
 </a>
 <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Rider-FE5904?logo=rider"/>
+</a>
+<a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Data Grip-29CA87?logo=datagrip"/>
+</a>
+<br>
+<a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Xcode-314F6E?logo=xcode"/>
+</a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Android%20Studio-4285F4?logo=androidstudio"/>
+</a>
+<a href="https://www.qt.io/product/development-tools" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-QtCreator-0B1437?logo=qt"/>
 </a>
 
 ## Languages
@@ -51,13 +79,20 @@
 <br>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="60px" height="60px"/>
-</a>          
+</a> 
+<a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="swift" width="60px" height="60px"/>
+</a> 
+<br>        
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60px" height="60px"/>
 </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+<a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="60px" height="60px"/>
 </a>
+<a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
+	 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="60px" height="60px"/>
+</a> 
 <br>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="60px" height="60px"/>
@@ -102,7 +137,5 @@
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="60px" height="60px"/>
 </a>
-
-## Operation Systems
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djyohann&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
